@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.solace.spring.boot:solace-java-spring-boot-autoconfigure:4.2.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/solace/spring/boot/solace-java-spring-boot-autoconfigure/4.2.2/solace-java-spring-boot-autoconfigure-4.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/solace/spring/boot/solace-java-spring-boot-autoconfigure/4.2.2/solace-java-spring-boot-autoconfigure-4.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/solace/spring/boot/solace-java-spring-boot-autoconfigure/4.2.2/solace-java-spring-boot-autoconfigure-4.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

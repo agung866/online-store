@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.solace.cloud.core:solace-services-info:0.4.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/solace/cloud/core/solace-services-info/0.4.4/solace-services-info-0.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/solace/cloud/core/solace-services-info/0.4.4/solace-services-info-0.4.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/solace/cloud/core/solace-services-info/0.4.4/solace-services-info-0.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
